@@ -81,17 +81,17 @@ interfaces:
   - name: Ethernet124
     type: 100gbase-x-qsfp28
 module-bays:
-  - name: Drawer1
-    position: '1'
-  - name: Drawer2
-    position: '2'
-  - name: Drawer3
-    position: '3'
-  - name: Drawer4
-    position: '4'
-  - name: Drawer5
-    position: '5'
-  - name: PSU-1
-    position: '1'
-  - name: PSU-2
-    position: '2'
+  - name: Fan Drawer 1
+    position: fan-1
+  - name: Fan Drawer 2
+    position: fan-2
+  - name: Fan Drawer 3
+    position: fan-3
+  - name: Fan Drawer 4
+    position: fan-4
+  - name: Fan Drawer 5
+    position: fan-5
+  - name: PSU 1
+    position: psu-1
+  - name: PSU 2
+    position: psu-2
